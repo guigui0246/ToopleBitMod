@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ToppleBitLoader/ToppleBitLoader.vcxproj" Id="ff65be06-9329-4814-8109-e925f396391e" />
+</Solution>

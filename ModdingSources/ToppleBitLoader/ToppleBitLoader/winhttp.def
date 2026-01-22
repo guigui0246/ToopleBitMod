@@ -1,0 +1,17 @@
+LIBRARY winhttp
+EXPORTS
+    WinHttpOpen
+    WinHttpConnect
+    WinHttpOpenRequest
+    WinHttpSendRequest
+    WinHttpReceiveResponse
+    WinHttpReadData
+    WinHttpCloseHandle
+    WinHttpGetIEProxyConfigForCurrentUser
+    WinHttpGetProxyForUrl
+    WinHttpSetOption
+    WinHttpQueryOption
+    WinHttpQueryHeaders
+    WinHttpQueryDataAvailable
+    WinHttpAddRequestHeaders
+    WinHttpSetTimeouts
