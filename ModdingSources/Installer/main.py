@@ -71,6 +71,7 @@ def main():
     if alread_installed:
         print("Installer already installed or settings file found. Skipping setup.")
         launcher(options)
+        return
 
     if not options.setting_save_path:
         options.setting_save_path = os.path.join(
